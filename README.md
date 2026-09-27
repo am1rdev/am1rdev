@@ -69,36 +69,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="45" alt="gradle logo" />
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=am1rdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
-  height="170" 
-  alt="GitHub stats" 
-/>
-
-<br />
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=am1rdev&layout=compact&langs_count=6&theme=dracula" 
-  height="170" 
-  alt="Top languages" 
-/>
-
-</div>
-
----
-
-<div align="center">
-
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=onedark" 
-/>
-
-</div>
